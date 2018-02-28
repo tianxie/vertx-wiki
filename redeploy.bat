@@ -1,7 +1,7 @@
 @echo off
 
 SET LAUNCHER="io.vertx.core.Launcher"
-SET VERTICLE="io.vertx.starter.MainVerticle"
+SET VERTICLE="me.txie.wiki.MainVerticle"
 SET CMD="mvn compile"
 SET VERTX_CMD="run"
 SET CMD_LINE_ARGS=%*
