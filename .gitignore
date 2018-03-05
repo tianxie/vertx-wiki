@@ -7,3 +7,17 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+.settings/
+.classpath
+.project
+hs_err_pid*
+**/src/main/generated/
+.mvn/
+.idea/
+db/
+*.iws
+*.ipr
+*.iml
+.vertx
+guide.html
+
